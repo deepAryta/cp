@@ -65,8 +65,7 @@ public class Main {
 			long lcs=cs;
 			count=lcl*lcs;
 		}
-		
-		
+
 		System.out.println(dif+" "+count);
 		
 
